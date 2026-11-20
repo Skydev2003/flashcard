@@ -2,7 +2,8 @@
 export default function Home() {
   return (
     <main>
-      <h1>Welcome to My Next.js App</h1>  
+      <h1 className="text-3xl font-bold  text-center mt-20"
+      >flashcard</h1>  
     </main>
   );
 }
